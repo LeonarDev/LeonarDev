@@ -1,4 +1,4 @@
-⚡ Stack: HTML, CSS, JavaScript.
+⚡ Stack: HTML, CSS, JavaScript, VueJS.
 
 <!--
 **LeonarDev/LeonarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
