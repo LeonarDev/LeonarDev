@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-[![HitCount](http://hits.dwyl.com/LeonarDev/{project}.svg)](http://hits.dwyl.com/LeonarDev/{project})
+[![HitCount](http://hits.dwyl.com/LeonarDev/LeonarDev.svg)](http://hits.dwyl.com/LeonarDev/LeonarDev)
 
 </p>
