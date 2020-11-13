@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+
 [![HitCount](http://hits.dwyl.com/LeonarDev/{project}.svg)](http://hits.dwyl.com/LeonarDev/{project})
+
+</p>
