@@ -11,9 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/leonardomajevski/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
-<a href="https://www.instagram.com/maujevski/" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> 
-<a href="https://steamcommunity.com/id/maujevski)" target="_blank"> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"/></a> 
+<a href="https://www.linkedin.com/in/leonardomajevski/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a> 
+<a href="https://www.instagram.com/maujevski/" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> </a> 
+<a href="https://steamcommunity.com/id/maujevski" target="_blank"> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"/> </a> 
 </p>
 
 <h3 align="left">Techs:</h3>
