@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Leo 👋
 - 💡 I'm a freelancer and student.
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about [here](https://github.com/LeonarDev/LeonarDev/issues)
