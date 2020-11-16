@@ -1,16 +1,21 @@
-### Hi there, I'm Leo 👋
-- 💡 I'm a freelancer and student.
-- 🌱 I’m currently learning Advanced JavaScript
-- 💬 Ask me about anything [here](https://github.com/LeonarDev/LeonarDev/issues)
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/leonardomajevski/)  [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/maujevski/) [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/maujevski)
+<h1 align="center">A passionate web developer from Brazil</h1>
 
+### Hi there, I'm **Leo** 👋
+- 💡 I'm a **freelancer and student**.
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
+- 📫 How to reach me: **leonardo.majevski@gmail.com**
+- ⚡ Fun fact: I have a bad face but **I'm a nice guy**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/leonardomajevski/)  [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/maujevski/) [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/maujevski)
+</p>
 
+<br>
 
-
-
-
-### TECHS:
+### Techs:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
