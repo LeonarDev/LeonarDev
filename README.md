@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![HitCount](http://hits.dwyl.com/LeonarDev/LeonarDev.svg)](http://hits.dwyl.com/LeonarDev/LeonarDev)
 
 </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev)](https://github.com/LeonarDev/github-readme-stats)
