@@ -1,6 +1,6 @@
 <h1 align="center">A passionate web developer from Brazil</h1>
 
-### Hi there, I'm **LEO>** 👋
+### Hi there, I'm **LEO** 👋
 - 💡 I'm a **freelancer and student**.
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
