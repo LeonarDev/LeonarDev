@@ -1,7 +1,7 @@
 ### Hi there, I'm Leo 👋
 - 💡 I'm a freelancer and student.
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about [here](https://github.com/LeonarDev/LeonarDev/issues)
+- 💬 Ask me about anything [here](https://github.com/LeonarDev/LeonarDev/issues)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardomajevski/) | [Instagram](https://www.instagram.com/maujevski/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula)
