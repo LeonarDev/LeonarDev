@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about [here](https://github.com/LeonarDev/LeonarDev/issues)
-- 📫 How to reach me: [LinkedIn](https://https://www.linkedin.com/in/leonardomajevski/) | [Instagram](https://https://www.instagram.com/maujevski/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardomajevski/) | [Instagram](https://www.instagram.com/maujevski/)
 
 <!--
 **LeonarDev/LeonarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
