@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
 - 📫 How to reach me: **leonardo.majevski@gmail.com**
-- ⚡ Fun fact: I have a bad face but **I'm a nice guy**
+- ⚡ Fun fact: **I have a bad face but I'm a nice guy**
 
 
 <h3 align="left">Connect with me:</h3>
