@@ -36,9 +36,7 @@
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&show_icons=true&theme=dracula)](https://github.com/LeonarDev/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&show_icons=true&theme=dracula)](https://github.com/LeonarDev/github-readme-stats)
 
 
 
