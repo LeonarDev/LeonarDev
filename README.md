@@ -4,7 +4,6 @@
 - 💬 Ask me about anything [here](https://github.com/LeonarDev/LeonarDev/issues)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardomajevski/) | [Instagram](https://www.instagram.com/maujevski/)
 
-<br>
 
 ### STACK:
 <p align="left">
