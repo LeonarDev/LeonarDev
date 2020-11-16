@@ -2,7 +2,12 @@
 - 💡 I'm a freelancer and student.
 - 🌱 I’m currently learning Advanced JavaScript
 - 💬 Ask me about anything [here](https://github.com/LeonarDev/LeonarDev/issues)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardomajevski/) | [Instagram](https://www.instagram.com/maujevski/)
+- 📫 How to reach me: [[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]](https://www.linkedin.com/in/leonardomajevski/) | [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/maujevski/)
+
+
+
+
+
 
 
 ### TECHS:
