@@ -1,4 +1,4 @@
-<h1 align="center">A passionate web developer from Brazil</h1>
+<h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
 
 ### Hi there, I am **LEO** 👋
 - 💡 I'm a **freelancer and student**.
