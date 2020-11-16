@@ -2,7 +2,7 @@
 
 ### Hi there, I'm **LEO** 👋
 - 💡 I'm a **freelancer and student**.
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 - 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
 - 📫 How to reach me: **leonardo.majevski@gmail.com**
 - ⚡ Fun fact: **I have a bad face but I'm a nice guy**
