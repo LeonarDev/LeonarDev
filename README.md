@@ -1,25 +1,17 @@
-⚡ Stack: HTML, CSS, JavaScript, VueJS.
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about [here](https://github.com/LeonarDev/LeonarDev/issues)
+- 📫 How to reach me: [LinkedIn](https://https://www.linkedin.com/in/leonardomajevski/) | [Instagram](https://https://www.instagram.com/maujevski/)
 
 <!--
 **LeonarDev/LeonarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-
-
-
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula)
 
@@ -27,4 +19,3 @@ Here are some ideas to get you started:
 
 [![HitCount](http://hits.dwyl.com/LeonarDev/LeonarDev.svg)](http://hits.dwyl.com/LeonarDev/LeonarDev)
 
-</p>
