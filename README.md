@@ -4,6 +4,8 @@
 - 💬 Ask me about anything [here](https://github.com/LeonarDev/LeonarDev/issues)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardomajevski/) | [Instagram](https://www.instagram.com/maujevski/)
 
+<br>
+
 STACK:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -22,6 +24,8 @@ STACK:
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
+
+<br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula)
 
