@@ -1,8 +1,27 @@
 ### Hi there, I'm Leo 👋
 - 💡 I'm a freelancer and student.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Advanced JavaScript
 - 💬 Ask me about anything [here](https://github.com/LeonarDev/LeonarDev/issues)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardomajevski/) | [Instagram](https://www.instagram.com/maujevski/)
+
+STACK:
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula)
 
