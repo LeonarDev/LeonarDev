@@ -16,6 +16,7 @@
 <a href="https://steamcommunity.com/id/maujevski" target="_blank"> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"/> </a> 
 </p>
 
+---
 <h3 align="left">Techs:</h3>
 <p align="left">
   
