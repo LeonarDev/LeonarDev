@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **ReactJS**
 - 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
 - 📫 How to reach me: **leonardo.majevski@gmail.com**
+- :octocat: Check my personal page **[here](https://leonardev.github.io./)**
 - ⚡ Fun fact: **I have a bad face but I'm a nice guy**
 
 
