@@ -3,10 +3,11 @@
 ### Hi there, I am **LEO** 👋
 - 💡 I'm a **freelancer and student**.
 - 🌱 I’m currently learning **ReactJS**
-- 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
-- 📫 How to reach me: **leonardo.majevski@gmail.com**
-- :octocat: Check my personal page **[here](https://leonardev.github.io./)**
 - ⚡ Fun fact: **I have a bad face but I'm a nice guy**
+- 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
+- 📫 How to reach me: `leonardo.majevski@gmail.com`
+- :octocat: Check my personal page **[here](https://leonardev.github.io./)** 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
 
 
 <h3 align="left">Connect with me:</h3>
