@@ -1,14 +1,12 @@
 <h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
 
-### Hi there, I am **LEO** 👋
+### Hi there, I am **LEO** 👋 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
 - 💡 I'm a **freelancer and student**.
 - 🌱 I’m currently learning **ReactJS**
 - ⚡ Fun fact: **I have a bad face but I'm a nice guy**
 - 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
 - 📫 How to reach me: `leonardo.majevski@gmail.com`
-- :octocat: Visit my personal page **[here](https://leonardev.github.io./)** 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
-
+- :octocat: Visit my **[personal page](https://leonardev.github.io./)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
