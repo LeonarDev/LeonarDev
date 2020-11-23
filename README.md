@@ -1,6 +1,12 @@
 <h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
 
-### Hi there, I am **LEO** 👋 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
+### Hi there, I am **LEO** 👋 
+
+<p align="right">
+  
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
+</p>
+
 - 💡 I'm a **freelancer and student**.
 - 🌱 I’m currently learning **ReactJS**
 - ⚡ Fun fact: **I have a bad face but I'm a nice guy**
