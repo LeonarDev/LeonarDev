@@ -43,7 +43,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&count_private=true&line_height=27) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&show_icons=true&theme=dracula&count_private=true)
 
 
-
 <!--
 **LeonarDev/LeonarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
