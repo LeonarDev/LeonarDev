@@ -1,6 +1,6 @@
-<h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
-
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
+
+<h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
 
 ### Hi there, I am **LEO** 👋 
 
