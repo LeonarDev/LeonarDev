@@ -3,10 +3,11 @@
 <h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
 
 ### Hi there, I am **LEO** 👋 
-
+<!--
 - 💡 I'm a **freelancer front-end developer**
-- :green_heart: I'm a student at **[TRYBE](https://www.betrybe.com/formacao)**
-- 🌱 I’m currently learning **ReactJS**
+-->
+- :green_heart: A student at **[TRYBE](https://www.betrybe.com/formacao)**
+- 🌱 I’m currently learning **Advanced JavaScript**
 - ⚡ Fun fact: **I have a bad face but I'm a nice guy**
 - 💬 Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
 - 📫 How to reach me: `leonardo.majevski@gmail.com`
