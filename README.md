@@ -7,7 +7,7 @@
 - 💡 I'm a **freelancer front-end developer**
 -->
 - :green_heart:  A student at **[TRYBE](https://www.betrybe.com/formacao)**
-- 🌱  I’m currently learning **Advanced JavaScript**
+- 🌱  I’m currently learning **[Responsive Web Designs](https://github.com/LeonarDev/Trybe)**
 - ⚡  Fun fact: **I have a bad face but I'm a nice guy**
 - 💬  Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
 - 📫  How to reach me: `leonardo.majevski@gmail.com`
