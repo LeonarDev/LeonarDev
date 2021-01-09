@@ -1,7 +1,5 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
 
-<h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
-
 ### Hi there, I am **LEO** 👋 
 <!--
 - 💡 I'm a **freelancer front-end developer**
@@ -70,6 +68,8 @@ OUTDATED:
 
 
 <!--
+<h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
+
 **LeonarDev/LeonarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Languages and Tools:**  
