@@ -9,7 +9,6 @@
 - :green_heart:  A student at **[TRYBE](https://www.betrybe.com/formacao)**
 - 🌱  I’m currently learning **[Responsive Web Designs](https://github.com/LeonarDev/Trybe)**
 - ⚡  Fun fact: **I have a bad face but I'm a nice guy**
-- 💬  Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
 - 📫  How to reach me: `leonardo.majevski@gmail.com`
 - :octocat:  Visit my **[personal page](https://leonardev.github.io./)** 
 
@@ -87,4 +86,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💬  Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
 --> 
