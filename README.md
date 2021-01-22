@@ -7,10 +7,10 @@
 - 💡 I'm a **freelancer front-end developer**
 -->
 - :green_heart:  A student at **[TRYBE](https://www.betrybe.com/formacao)**
-- 🌱  Currently learning **[Automated Testing in JS](https://github.com/LeonarDev/Trybe)**
+- :books:  Currently learning **[Automated Testing in JS](https://github.com/LeonarDev/Trybe)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 📫  How to reach me: `leonardo.majevski@gmail.com`
-- ⚡ Some of my projects [here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)
+- :open_file_folder: Some of my projects [here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)
 - :octocat:  Visit my **[personal page](https://leonardev.github.io./)** 
 
 <h3 align="left">Connect with me:</h3>
