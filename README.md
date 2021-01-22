@@ -7,7 +7,7 @@
 - 💡 I'm a **freelancer front-end developer**
 -->
 - :green_heart:  A student at **[TRYBE](https://www.betrybe.com/formacao)**
-- :books:  Currently learning **[Automated Testing in JS](https://github.com/LeonarDev/Trybe)**
+- :books:  Currently studies **[Automated Testing in JS and mySQL](https://github.com/LeonarDev/Trybe)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 📫  How to reach me: `leonardo.majevski@gmail.com`
 - :open_file_folder: Some of my projects [here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)
