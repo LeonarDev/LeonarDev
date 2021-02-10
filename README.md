@@ -7,7 +7,7 @@
 - 💡 I'm a **freelancer front-end developer**
 -->
 - :green_heart:  A student at **[TRYBE](https://www.betrybe.com/formacao)**
-- :books:  Currently studies **[Automated Testing | mySQL](https://github.com/LeonarDev/Trybe)**
+- :books:  Currently studies **[React | mySQL](https://github.com/LeonarDev/Trybe)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 📫  How to reach me: `leonardo.majevski@gmail.com`
 - :open_file_folder: Some of my projects [here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)
@@ -35,6 +35,7 @@
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></a>
+<a href ="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-933E56?style=for-the-badge&logo=jest&logoColor=white"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 </p>
