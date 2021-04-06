@@ -6,7 +6,7 @@
 <!--
 - 💡 I'm a **freelancer front-end developer**
 -->
-- :office: Work at **[Autoglass](https://www.autoglass.com.br/)**
+- :office: I work at **[Autoglass](https://www.autoglass.com.br/)**
 - :green_heart:  A student at **[Trybe](https://www.betrybe.com/formacao)**
 - :books:  Learning **[Redux](https://github.com/LeonarDev/Trybe)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
