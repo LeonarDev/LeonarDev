@@ -7,12 +7,12 @@
 - 💡 I'm a **freelancer front-end developer**
 -->
 - :office: I work at **[Autoglass](https://www.autoglass.com.br/)**
-- :green_heart:  A student at **[Trybe](https://www.betrybe.com/formacao)**
-- :books:  Learning **[Redux](https://github.com/LeonarDev/Trybe)**
+- :green_heart: A student at **[Trybe](https://www.betrybe.com/formacao)**
+- :books: Learning **[Redux](https://github.com/LeonarDev/Trybe)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
-- 📫  How to reach me: `leonardo.majevski@gmail.com`
+- 📫 How to reach me: `leonardo.majevski@gmail.com`
 - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)**
-- :octocat:  Visit my **[personal page](https://leonardev.github.io./)** 
+- :octocat: Visit my **[personal page](https://leonardev.github.io./)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
