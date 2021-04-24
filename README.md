@@ -40,7 +40,7 @@
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></a>
 <a href="https://www.oracle.com/br/database/"><img src="https://img.shields.io/badge/sql-9A4133?style=for-the-badge&logo=oracle&logoColor=white"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/NoSQL-4A8D42?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/NoSQL-323330?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/></a>
 
 
 </p>
