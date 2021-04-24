@@ -36,11 +36,13 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href ="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-933E56?style=for-the-badge&logo=jest&logoColor=white"/></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-323330?style=for-the-badge&logo=testing-library&logoColor=EE493A"/></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7856BC"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></a>
 <a href="https://www.oracle.com/br/database/"><img src="https://img.shields.io/badge/sql-9A4133?style=for-the-badge&logo=oracle&logoColor=white"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/NoSQL-323330?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/></a>
+
 
 
 </p>
