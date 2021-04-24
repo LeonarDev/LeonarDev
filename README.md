@@ -26,22 +26,22 @@
 <h3 align="left">Skills:</h3>
 <p align="left">
 
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></a>
-<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> 
-<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> 
-<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=E95420"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-20232A?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=E95420"/></a>
+<a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/markdown-323330?style=for-the-badge&logo=markdown&logoColor=white"/></a>
+<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26"/></a> 
+<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6"/></a> 
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href ="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-933E56?style=for-the-badge&logo=jest&logoColor=white"/></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/Testing_Library-323330?style=for-the-badge&logo=testing-library&logoColor=EE493A"/></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7856BC"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/></a>
 <a href="https://www.oracle.com/br/database/"><img src="https://img.shields.io/badge/sql-9A4133?style=for-the-badge&logo=oracle&logoColor=white"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/NoSQL-323330?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/NoSQL-20232A?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/></a>
 
 
 
