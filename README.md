@@ -68,42 +68,42 @@
 
 <!-- JEST -->
 <a href ="https://jestjs.io/">
-  <img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=933E56"/>
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=933E56"/>
 </a>
 
 <!-- REACT -->
 <a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
 <!-- TESTING LIBRARY -->
 <a href="https://testing-library.com/">
-  <img src="https://img.shields.io/badge/Testing_Library-20232A?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
+  <img src="https://img.shields.io/badge/Testing_Library-323330?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
 </a>
 
 <!-- REDUX -->
 <a href="https://redux.js.org/">
-  <img src="https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=7856BC"/>
+  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7856BC"/>
 </a>
 
 <!-- NODE -->
 <a href="https://nodejs.org/en/">
-  <img src="https://img.shields.io/badge/node.js-20232A?&style=for-the-badge&logo=node.js&logoColor=8CBF3E"/>
+  <img src="https://img.shields.io/badge/node.js-323330?&style=for-the-badge&logo=node.js&logoColor=8CBF3E"/>
 </a>
 
 <!-- EXPRESS -->
 <a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/express.js-323330?&style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-20232A?&style=for-the-badge&logo=express&logoColor=white"/>
 </a>
 
 <!-- SQL ORACLE -->
 <a href="https://www.oracle.com/br/database/">
-  <img src="https://img.shields.io/badge/sql-20232A?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
+  <img src="https://img.shields.io/badge/sql-323330?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
 </a>
 
 <!-- NOSQL MONGODB -->
 <a href="https://www.mongodb.com/">
-  <img src="https://img.shields.io/badge/NoSQL-323330?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
+  <img src="https://img.shields.io/badge/NoSQL-20232A?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
 </a>
 
 
