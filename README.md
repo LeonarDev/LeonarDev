@@ -98,7 +98,7 @@
 
 <!-- SQL ORACLE -->
 <a href="https://www.oracle.com/br/database/">
-  <img src="https://img.shields.io/badge/sql-323330?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
+  <img src="https://img.shields.io/badge/pl/sql-323330?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
 </a>
 
 <!-- NOSQL MONGODB -->
