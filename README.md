@@ -88,7 +88,7 @@
 
 <!-- NODE -->
 <a href="https://nodejs.org/en/">
-  <img src="https://img.shields.io/badge/node.js-20232A?&style=for-the-badge&logo=node.js&logoColor=8CBF3E"/>
+  <img src="https://img.shields.io/badge/node.js-20232A?&style=for-the-badge&logo=node-dot-js&logoColor=8CBF3E"/>
 </a>
 
 <!-- EXPRESS -->
