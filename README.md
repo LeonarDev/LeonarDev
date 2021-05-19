@@ -78,7 +78,7 @@
 
 <!-- TESTING LIBRARY -->
 <a href="https://testing-library.com/">
-  <img src="https://img.shields.io/badge/Testing_Lib-161B22?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
+  <img src="https://img.shields.io/badge/Testing_Library-161B22?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
 </a>
 
 <!-- REDUX -->
