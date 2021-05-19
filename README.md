@@ -33,7 +33,7 @@
 
 <!-- TERMINAL -->
 <a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-121924?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </a>
 
 <!-- GIT -->
@@ -43,7 +43,7 @@
 
 <!-- MARKDOWN -->
 <a href="https://daringfireball.net/projects/markdown/">
-  <img src="https://img.shields.io/badge/markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-121924?style=for-the-badge&logo=markdown&logoColor=white"/>
 </a>
 
 <!-- HTML -->
@@ -53,7 +53,7 @@
 
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/">
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/CSS3-121924?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </a> 
 
 <!-- BOOTSTRAP -->
@@ -63,7 +63,7 @@
 
 <!-- JAVASCRIPT -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-121924?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a>
 
 <!-- JEST -->
@@ -73,17 +73,17 @@
 
 <!-- REACT -->
 <a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-121924?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
 <!-- TESTING LIBRARY -->
 <a href="https://testing-library.com/">
-  <img src="https://img.shields.io/badge/Testing_Library-161B22?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
+  <img src="https://img.shields.io/badge/Testing_Lib-161B22?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
 </a>
 
 <!-- REDUX -->
 <a href="https://redux.js.org/">
-  <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=7856BC"/>
+  <img src="https://img.shields.io/badge/Redux-121924?style=for-the-badge&logo=redux&logoColor=7856BC"/>
 </a>
 
 <!-- NODE -->
@@ -93,7 +93,7 @@
 
 <!-- EXPRESS -->
 <a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/express.js-0D1117?&style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-121924?&style=for-the-badge&logo=express&logoColor=white"/>
 </a>
 
 <!-- SQL ORACLE -->
@@ -103,7 +103,7 @@
 
 <!-- NOSQL MONGODB -->
 <a href="https://www.mongodb.com/">
-  <img src="https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
+  <img src="https://img.shields.io/badge/NoSQL-121924?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
 </a>
 
 <!-- SCRUM -->
@@ -113,7 +113,7 @@
 
 <!-- KANBAN -->
 <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
-  <img src="https://img.shields.io/badge/Kanban-0D1117?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
+  <img src="https://img.shields.io/badge/Kanban-121924?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
 </a>
 
 </p>
