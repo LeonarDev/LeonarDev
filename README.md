@@ -3,7 +3,7 @@
 -->
 
 ### Hi there, I am **LEO** 👋 
-<!--
+<!-- 
 - 💡 I'm a **freelancer front-end developer**
 -->
 - :office: I work at **[Autoglass](https://www.autoglass.com.br/)**
