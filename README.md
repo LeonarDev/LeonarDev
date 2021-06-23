@@ -2,7 +2,7 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
 -->
 
-### Hi there, I am **LEO** 👋 
+### Hi there, I am **LEO** 🦁
 <!-- 
 - 💡 I'm a **freelancer front-end developer**
 -->
