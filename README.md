@@ -97,12 +97,12 @@
 </a>
   
 <!-- C# -->
-<a href="https://expressjs.com/">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://img.shields.io/badge/c_sharp-161B22?&style=for-the-badge&logo=c-sharp&logoColor=9A4993"/>
 </a>
   
 <!-- .NET -->
-<a href="https://expressjs.com/">
+<a href="https://dotnet.microsoft.com/">
   <img src="https://img.shields.io/badge/.NET-121924?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
 </a>
 
