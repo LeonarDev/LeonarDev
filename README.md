@@ -103,7 +103,7 @@
   
 <!-- .NET -->
 <a href="https://dotnet.microsoft.com/">
-  <img src="https://img.shields.io/badge/.NET-121924?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
+  <img src="https://img.shields.io/badge/.NET_Framework-121924?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
 </a>
 
 <!-- SQL ORACLE -->
