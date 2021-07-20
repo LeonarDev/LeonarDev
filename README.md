@@ -130,7 +130,8 @@
  
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&count_private=true&line_height=27) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&count_private=true&line_height=27) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10)
+
 
 
 <!--
