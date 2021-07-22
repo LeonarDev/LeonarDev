@@ -8,7 +8,7 @@
 -->
 - :office: I work at **[Autoglass](https://www.autoglass.com.br/)**
 - :green_heart: I'm a student at **[Trybe](https://www.betrybe.com/formacao)**
-- :books: I'm learning **[Node.js](https://github.com/LeonarDev/Trybe) and .NET**
+- :books: I'm learning **[Node.js](https://github.com/LeonarDev/Trybe) and [.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 📫 How to reach me: `leonardo.majevski@gmail.com`
 - 🚧 My **[personal page](https://leonardev.github.io./)** 🚧
