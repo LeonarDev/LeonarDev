@@ -2,16 +2,18 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
 -->
 
-### Hi there, I am **LEO**
+### Hi there, I am **LEO**,
 <!-- 
 - 💡 I'm a **freelancer front-end developer**
 -->
-- :office: I work at **[Autoglass](https://www.autoglass.com.br/)**
-- :green_heart: I'm a student at **[Trybe](https://www.betrybe.com/formacao)**
-- :books: I'm learning **[Node.js](https://github.com/LeonarDev/Trybe) and [.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
+- :office: A full stack developer at **[Autoglass](https://www.autoglass.com.br/)**
+- :green_heart: And a student in web development [(MERN Stack)](https://www.mongodb.com/mern-stack) at **[Trybe](https://www.betrybe.com/formacao)**
+- :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe) and [.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
+- 🎓 Some **[certifications](https://cursos.alura.com.br/user/leonardo-rnascimento/fullCertificate/eea2a0fa87148f478d45fdc0efdab383)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
+- 🖥️ My **[personal page](https://leonardev.github.io./)**
 - 📫 How to reach me: `leonardo.majevski@gmail.com`
-- 🚧 My **[personal page](https://leonardev.github.io./)** 🚧
+
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
 
 <h3 align="left">Connect with me:</h3>
