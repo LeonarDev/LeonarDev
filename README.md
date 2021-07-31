@@ -40,12 +40,6 @@
 </div>
 
 ##
-
-<!-- SNAKE COMMITS -->
-<p align="center">
-  <img src="https://img.shields.io/github/commits-since/{leonardev}/{leonardev}/{1.0}.svg">
-  <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
-</p>
   
 <!-- <h3 align="left">Skills:</h3> -->
 <p align="center">
@@ -150,13 +144,17 @@
   </a>
 </p>
 
+
+<!-- SNAKE COMMITS -->
+<p align="center">
+  <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
+</p>
+
 <!-- 
 MODELO ANTIGO:
 ![LeonarDev Stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=27) 
 ![LeonarDev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10)
 -->
-
-##
 
 <br>
   
