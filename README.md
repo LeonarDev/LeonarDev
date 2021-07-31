@@ -72,10 +72,15 @@
   <a href="https://ubuntu.com/">
      <img src="https://img.shields.io/badge/Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
   </a>
+  
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/pt-br/windows">
+     <img src="https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=0078D4"/>
+  </a>
 
   <!-- SHELL -->
   <a href="https://en.wikipedia.org/wiki/Shell_(computing)">
-    <img src="https://img.shields.io/badge/Shell-161B22?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shell_Script-161B22?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
   </a>
 
   <!-- GIT -->
