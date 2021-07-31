@@ -12,11 +12,11 @@
 - 🎓 Some **[certifications](https://cursos.alura.com.br/user/leonardo-rnascimento/fullCertificate/eea2a0fa87148f478d45fdc0efdab383)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 🖥️ My **[personal page](https://leonardev.github.io./)**
-- 📫 How to reach me: `leonardo.majevski@gmail.com`
+- 📫 How to reach me: 
 
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
 
-<h3 align="left">Connect with me:</h3>
+<!--  <h3 align="left">Connect with me:</h3> -->
 
 <p align="left">
   <!-- LINKEDIN -->
@@ -31,14 +31,23 @@
 
   <!-- STEAM -->
   <a href="https://steamcommunity.com/id/maujevski">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Steam-000000?&style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  
+  <!-- GMAIL -->
+  <a href = "mailto:leonardo.majevski@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-![Snake animation](https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg)
+##
 
-<h3 align="left">Skills:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
+</p>
+  
+<!-- <h3 align="left">Skills:</h3> -->
+<p align="center">
   <!-- UBUNTU -->
   <a href="https://ubuntu.com/">
      <img src="https://img.shields.io/badge/Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
@@ -147,8 +156,10 @@ MODELO ANTIGO:
 -->
 
 ##
+
+<br>
   
-<div>
+<div align="center">
   <a href="https://github.com/LeonarDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true"/>
