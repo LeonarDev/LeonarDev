@@ -6,10 +6,6 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif" width=300 height=200 /> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
 
-
-
-
-
 ### Hi there, I am **LEO**,
 <!-- 
 - 💡 I'm a **freelancer front-end developer**
@@ -49,7 +45,6 @@
 
 ##
 
-
 <!--
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
@@ -70,8 +65,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 -->
-
-
   
 <!-- <h3 align="left">Skills:</h3> -->
 <p align="center">
@@ -176,12 +169,6 @@
   </a>
 </p>
 
-
-<!-- SNAKE COMMITS -->
-<p align="center">
-  <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
-</p>
-
 <!-- 
 MODELO ANTIGO:
 ![LeonarDev Stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=27) 
@@ -195,6 +182,11 @@ MODELO ANTIGO:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true&bg_color=161B22"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=161B22"/>
 </div>
+  
+<!-- SNAKE COMMITS -->
+<p align="center">
+  <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
+</p>
 
 
 <!--
