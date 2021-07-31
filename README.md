@@ -193,6 +193,13 @@ MODELO ANTIGO:
   <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
 </p>
 
+##
+
+<br> 
+  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api">
+</p>
 
 <!--
 <h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
