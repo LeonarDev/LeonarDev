@@ -73,9 +73,9 @@
      <img src="https://img.shields.io/badge/Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
   </a>
 
-  <!-- TERMINAL -->
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Terminal-161B22?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <!-- SHELL -->
+  <a href="https://en.wikipedia.org/wiki/Shell_(computing)">
+    <img src="https://img.shields.io/badge/Shell-161B22?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
   </a>
 
   <!-- GIT -->
