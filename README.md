@@ -2,6 +2,10 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
 -->
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width=250 />
+
+
+
 ### Hi there, I am **LEO**,
 <!-- 
 - 💡 I'm a **freelancer front-end developer**
