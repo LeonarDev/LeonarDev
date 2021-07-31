@@ -17,130 +17,146 @@
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  
-<a href="https://www.linkedin.com/in/leonardomajevski/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a> 
-<a href="https://www.instagram.com/maujevski/" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> </a> 
-<a href="https://steamcommunity.com/id/maujevski" target="_blank"> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_blank"/> </a> 
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/leonardomajevski/"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- INSTAGRAM -->
+  <a href="https://www.instagram.com/maujevski/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- STEAM -->
+  <a href="https://steamcommunity.com/id/maujevski">
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">
+  </a>
 </p>
 
 ---
 <h3 align="left">Skills:</h3>
 <p align="left">
+  <!-- UBUNTU -->
+  <a href="https://ubuntu.com/">
+     <img src="https://img.shields.io/badge/Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+  </a>
 
-<!-- UBUNTU -->
-<a href="https://ubuntu.com/">
-   <img src="https://img.shields.io/badge/Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
-</a>
+  <!-- TERMINAL -->
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Terminal-161B22?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  </a>
 
-<!-- TERMINAL -->
-<a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.shields.io/badge/Terminal-161B22?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-</a>
+  <!-- GIT -->
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=E95420"/>
+  </a>
 
-<!-- GIT -->
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=E95420"/>
-</a>
+  <!-- MARKDOWN -->
+  <a href="https://daringfireball.net/projects/markdown/">
+    <img src="https://img.shields.io/badge/markdown-161B22?style=for-the-badge&logo=markdown&logoColor=white"/>
+  </a>
 
-<!-- MARKDOWN -->
-<a href="https://daringfireball.net/projects/markdown/">
-  <img src="https://img.shields.io/badge/markdown-161B22?style=for-the-badge&logo=markdown&logoColor=white"/>
-</a>
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/">
+    <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  </a> 
 
-<!-- HTML -->
-<a href="https://www.w3.org/html/">
-  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-</a> 
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  </a> 
 
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/">
-  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</a> 
+  <!-- BOOTSTRAP -->
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
+  </a>
 
-<!-- BOOTSTRAP -->
-<a href="https://getbootstrap.com/">
-  <img src="https://img.shields.io/badge/Bootstrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
-</a>
+  <!-- JAVASCRIPT -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a>
 
-<!-- JAVASCRIPT -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</a>
+  <!-- JEST -->
+  <a href ="https://jestjs.io/">
+    <img src="https://img.shields.io/badge/Jest-161B22?style=for-the-badge&logo=jest&logoColor=933E56"/>
+  </a>
 
-<!-- JEST -->
-<a href ="https://jestjs.io/">
-  <img src="https://img.shields.io/badge/Jest-161B22?style=for-the-badge&logo=jest&logoColor=933E56"/>
-</a>
+  <!-- REACT -->
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
 
-<!-- REACT -->
-<a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
+  <!-- TESTING LIBRARY -->
+  <a href="https://testing-library.com/">
+    <img src="https://img.shields.io/badge/Testing_Library-161B22?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
+  </a>
 
-<!-- TESTING LIBRARY -->
-<a href="https://testing-library.com/">
-  <img src="https://img.shields.io/badge/Testing_Library-161B22?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
-</a>
+  <!-- REDUX -->
+  <a href="https://redux.js.org/">
+    <img src="https://img.shields.io/badge/Redux-161B22?style=for-the-badge&logo=redux&logoColor=7856BC"/>
+  </a>
 
-<!-- REDUX -->
-<a href="https://redux.js.org/">
-  <img src="https://img.shields.io/badge/Redux-161B22?style=for-the-badge&logo=redux&logoColor=7856BC"/>
-</a>
+  <!-- NODE -->
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/node.js-161B22?&style=for-the-badge&logo=node.js&logoColor=8CBF3E"/>
+  </a>
 
-<!-- NODE -->
-<a href="https://nodejs.org/en/">
-  <img src="https://img.shields.io/badge/node.js-161B22?&style=for-the-badge&logo=node.js&logoColor=8CBF3E"/>
-</a>
+  <!-- EXPRESS -->
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/express.js-161B22?&style=for-the-badge&logo=express&logoColor=white"/>
+  </a>
 
-<!-- EXPRESS -->
-<a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/express.js-161B22?&style=for-the-badge&logo=express&logoColor=white"/>
-</a>
-  
-<!-- C# -->
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://img.shields.io/badge/c_sharp-161B22?&style=for-the-badge&logo=c-sharp&logoColor=9A4993"/>
-</a>
-  
-<!-- .NET -->
-<a href="https://dotnet.microsoft.com/">
-  <img src="https://img.shields.io/badge/.NET_Framework-161B22?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
-</a>
+  <!-- C# -->
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/c_sharp-161B22?&style=for-the-badge&logo=c-sharp&logoColor=9A4993"/>
+  </a>
 
-<!-- SQL ORACLE -->
-<a href="https://www.oracle.com/br/database/">
-  <img src="https://img.shields.io/badge/pl/sql-161B22?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
-</a>
+  <!-- .NET -->
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET_Framework-161B22?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
+  </a>
 
-<!-- NOSQL MONGODB -->
-<a href="https://www.mongodb.com/">
-  <img src="https://img.shields.io/badge/NoSQL-161B22?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
-</a>
+  <!-- SQL ORACLE -->
+  <a href="https://www.oracle.com/br/database/">
+    <img src="https://img.shields.io/badge/pl/sql-161B22?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
+  </a>
 
-<!-- SCRUM -->
-<a href="https://www.scrum.org/">
-  <img src="https://img.shields.io/badge/Scrum-161B22?style=for-the-badge&logo=clockify&logoColor=3A7C9A"/>
-</a>
+  <!-- NOSQL MONGODB -->
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/NoSQL-161B22?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
+  </a>
 
-<!-- KANBAN -->
-<a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
-  <img src="https://img.shields.io/badge/Kanban-161B22?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
-</a>
+  <!-- SCRUM -->
+  <a href="https://www.scrum.org/">
+    <img src="https://img.shields.io/badge/Scrum-161B22?style=for-the-badge&logo=clockify&logoColor=3A7C9A"/>
+  </a>
 
+  <!-- KANBAN -->
+  <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
+    <img src="https://img.shields.io/badge/Kanban-161B22?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
+  </a>
 </p>
  
 <br>
 
-<!--
+![Snake animation](https://github.com//rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<!-- 
+MODELO ANTIGO:
 ![LeonarDev Stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=27) 
 ![LeonarDev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10)
 -->
- 
+
+##
+  
 <div>
   <a href="https://github.com/LeonarDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true"/>
 </div>
 
 
