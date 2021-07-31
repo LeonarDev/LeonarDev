@@ -7,11 +7,12 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
 
 <h2> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎r /> <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25"> </h2>
-<h3> You can call me LEO <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> </h2>
+<h4> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>  About me: </h4>
 
 <!-- 
 - 💡 I'm a **freelancer front-end developer**
 -->
+- 🦁 You can call me LEO
 - :office: A full stack developer at **[Autoglass](https://www.autoglass.com.br/)**
 - :green_heart: And a student in web development [(MERN Stack)](https://www.mongodb.com/mern-stack) at **[Trybe](https://www.betrybe.com/formacao)**
 - :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe) and [.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
