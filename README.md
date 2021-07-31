@@ -35,7 +35,8 @@
   </a>
 </p>
 
----
+![Snake animation](https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Skills:</h3>
 <p align="left">
   <!-- UBUNTU -->
@@ -138,12 +139,6 @@
     <img src="https://img.shields.io/badge/Kanban-161B22?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
   </a>
 </p>
- 
-<br>
-
-![Snake animation](https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg)
-
-<br>
 
 <!-- 
 MODELO ANTIGO:
