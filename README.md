@@ -132,9 +132,10 @@
  
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=27) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10)
-  
+<!--
+![LeonarDev Stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=27) 
+![LeonarDev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10)
+-->
  
 <div>
   <a href="https://github.com/LeonarDev">
