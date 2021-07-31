@@ -12,13 +12,12 @@
 - 🎓 Some **[certifications](https://cursos.alura.com.br/user/leonardo-rnascimento/fullCertificate/eea2a0fa87148f478d45fdc0efdab383)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 🖥️ My **[personal page](https://leonardev.github.io./)**
-- 📫 How to reach me: 
 
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
 
 <!--  <h3 align="left">Connect with me:</h3> -->
 
-<p align="left">
+<div align="center">
   <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/leonardomajevski/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -38,7 +37,7 @@
   <a href = "mailto:leonardo.majevski@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
+</div>
 
 ##
 
