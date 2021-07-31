@@ -132,8 +132,15 @@
  
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&count_private=true&line_height=27) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10)
-
+![](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=27) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10)
+  
+ 
+<div>
+  <a href="https://github.com/LeonarDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=tokyonight&count_private=true"/>
+</div>
 
 
 <!--
