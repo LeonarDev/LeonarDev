@@ -41,7 +41,9 @@
 
 ##
 
+<!-- SNAKE COMMITS -->
 <p align="center">
+  <img src="https://img.shields.io/github/commits-since/{leonardev}/{leonardev}/{1.0}.svg">
   <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
 </p>
   
@@ -160,8 +162,8 @@ MODELO ANTIGO:
   
 <div align="center">
   <a href="https://github.com/LeonarDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true&bg_color=161B22"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=161B22"/>
 </div>
 
 
