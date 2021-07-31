@@ -6,7 +6,10 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif" width=300 height=200 /> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
 
-### Hi there, I am **LEO**,
+<h2>
+  <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25"> Hi there, I am <strong>LEO</strong> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>
+</h2>
+
 <!-- 
 - 💡 I'm a **freelancer front-end developer**
 -->
