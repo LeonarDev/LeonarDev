@@ -68,14 +68,14 @@ while (dev.isInFrontOfComputer()) {
 ```
   
 ##
-<div>
-
-  <img align="right" alt="GIF" height="135px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem)](https://open.spotify.com/user/leonardomajevski)
-
+<div align="center">
+  <img height="150px" src="https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem">
+  <img alt="LISTENING NOW" height="130px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 </div>
 
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem)](https://open.spotify.com/user/leonardomajevski)
+-->
 
 ##
 
