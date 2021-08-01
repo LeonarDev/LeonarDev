@@ -12,7 +12,7 @@
 <!-- 
 - 💡 I'm a **freelancer front-end developer**
 -->
-- 🦁 You can call me LEO
+- 🦁 You can call me [LEO](https://www.instagram.com/maujevski/)
 - :office: I am a full stack developer at **[Autoglass](https://www.autoglass.com.br/)**
 - :green_heart: And a student in web development **[(MERN Stack)](https://www.mongodb.com/mern-stack)** at **[Trybe](https://www.betrybe.com/formacao)**
 - :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe) and [.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
