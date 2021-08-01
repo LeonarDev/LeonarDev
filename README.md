@@ -88,109 +88,109 @@
   
 <!-- <h3 align="left">Skills:</h3> -->
 <p align="center">
-  <!-- UBUNTU -->
+  <!-- LINUX -->
   <a href="https://ubuntu.com/">
-     <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=E95420"/>
+     <img src="https://img.shields.io/badge/Linux-3f4854?style=for-the-badge&logo=linux&logoColor=000000"/>
   </a>
   
   <!-- Windows -->
   <a href="https://www.microsoft.com/pt-br/windows">
-     <img src="https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=0078D4"/>
+     <img src="https://img.shields.io/badge/Windows-3f4854?style=for-the-badge&logo=windows&logoColor=0078D4"/>
   </a>
 
   <!-- SHELL -->
   <a href="https://en.wikipedia.org/wiki/Shell_(computing)">
-    <img src="https://img.shields.io/badge/Shell_Script-161B22?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shell_Script-3f4854?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
   </a>
 
   <!-- GIT -->
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=E95420"/>
+    <img src="https://img.shields.io/badge/git-3f4854?style=for-the-badge&logo=git&logoColor=E95420"/>
   </a>
 
   <!-- MARKDOWN -->
   <a href="https://daringfireball.net/projects/markdown/">
-    <img src="https://img.shields.io/badge/markdown-161B22?style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/markdown-3f4854?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
 
   <!-- HTML -->
   <a href="https://www.w3.org/html/">
-    <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+    <img src="https://img.shields.io/badge/HTML5-3f4854?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   </a> 
 
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+    <img src="https://img.shields.io/badge/CSS3-3f4854?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   </a> 
 
   <!-- BOOTSTRAP -->
   <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
+    <img src="https://img.shields.io/badge/Bootstrap-3f4854?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
   </a>
 
   <!-- JAVASCRIPT -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/JavaScript-3f4854?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
 
   <!-- JEST -->
   <a href ="https://jestjs.io/">
-    <img src="https://img.shields.io/badge/Jest-161B22?style=for-the-badge&logo=jest&logoColor=933E56"/>
+    <img src="https://img.shields.io/badge/Jest-3f4854?style=for-the-badge&logo=jest&logoColor=933E56"/>
   </a>
 
   <!-- REACT -->
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/React-3f4854?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
 
   <!-- TESTING LIBRARY -->
   <a href="https://testing-library.com/">
-    <img src="https://img.shields.io/badge/Testing_Library-161B22?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
+    <img src="https://img.shields.io/badge/Testing_Library-3f4854?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
   </a>
 
   <!-- REDUX -->
   <a href="https://redux.js.org/">
-    <img src="https://img.shields.io/badge/Redux-161B22?style=for-the-badge&logo=redux&logoColor=7856BC"/>
+    <img src="https://img.shields.io/badge/Redux-3f4854?style=for-the-badge&logo=redux&logoColor=7856BC"/>
   </a>
 
   <!-- NODE -->
   <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/node.js-161B22?&style=for-the-badge&logo=node.js&logoColor=8CBF3E"/>
+    <img src="https://img.shields.io/badge/node.js-3f4854?&style=for-the-badge&logo=node.js&logoColor=8CBF3E"/>
   </a>
 
   <!-- EXPRESS -->
   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-161B22?&style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express.js-3f4854?&style=for-the-badge&logo=express&logoColor=white"/>
   </a>
 
   <!-- C# -->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/c_sharp-161B22?&style=for-the-badge&logo=c-sharp&logoColor=9A4993"/>
+    <img src="https://img.shields.io/badge/c_sharp-3f4854?&style=for-the-badge&logo=c-sharp&logoColor=9A4993"/>
   </a>
 
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET_Framework-161B22?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
+    <img src="https://img.shields.io/badge/.NET_Framework-3f4854?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
   </a>
 
   <!-- SQL ORACLE -->
   <a href="https://www.oracle.com/br/database/">
-    <img src="https://img.shields.io/badge/pl/sql-161B22?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
+    <img src="https://img.shields.io/badge/pl/sql-3f4854?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
   </a>
 
   <!-- NOSQL MONGODB -->
   <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/NoSQL-161B22?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
+    <img src="https://img.shields.io/badge/NoSQL-3f4854?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
   </a>
 
   <!-- SCRUM -->
   <a href="https://www.scrum.org/">
-    <img src="https://img.shields.io/badge/Scrum-161B22?style=for-the-badge&logo=clockify&logoColor=3A7C9A"/>
+    <img src="https://img.shields.io/badge/Scrum-3f4854?style=for-the-badge&logo=clockify&logoColor=3A7C9A"/>
   </a>
 
   <!-- KANBAN -->
   <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
-    <img src="https://img.shields.io/badge/Kanban-161B22?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
+    <img src="https://img.shields.io/badge/Kanban-3f4854?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
   </a>
 </p>
 
