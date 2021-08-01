@@ -16,10 +16,10 @@
 - :office: I am a full stack developer at **[Autoglass](https://www.autoglass.com.br/)**
 - :green_heart: And a student in web development **[(MERN Stack)](https://www.mongodb.com/mern-stack)** at **[Trybe](https://www.betrybe.com/formacao)**
 - :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe) and [.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
-- :suspect: Fun fact: **I have a bad face but I am a nice guy**
-- 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat | (Long story short)
 - 🎓 Some **[certifications](https://cursos.alura.com.br/user/leonardo-rnascimento/fullCertificate/eea2a0fa87148f478d45fdc0efdab383)**
 - 🖥️ My **[personal page](https://leonardev.github.io./)**
+- :suspect: Fun fact: **I have a bad face but I am a nice guy**
+- 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat | (Long story short)
 - 🔥 "Talk is cheap. Show me the code." - **[Linus Torvalds](https://github.com/torvalds)**
 
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
