@@ -30,6 +30,11 @@
   <a href="https://www.linkedin.com/in/leonardomajevski/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <!-- MICROSOFT LEARN -->
+  <a href = "https://docs.microsoft.com/pt-br/users/leonardev/">
+    <img src="https://img.shields.io/badge/microsoft_Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  </a>
 
   <!-- INSTAGRAM -->
   <a href="https://www.instagram.com/maujevski/">
