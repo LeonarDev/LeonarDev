@@ -6,7 +6,7 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif" width=300 height=200 /> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
 
-<h2> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎r /> <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25"> </h2>
+<h2> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎r/> <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25"> </h2>
 <h4> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>  About me: </h4>
 
 <!-- 
