@@ -219,8 +219,8 @@ MODELO ANTIGO:
   
 <div align="center">
   <a href="https://github.com/LeonarDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true&bg_color=161B22"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=161B22"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=0D1117"/>
 </div>
   
 <!-- SNAKE COMMITS -->
