@@ -56,7 +56,7 @@
 
 <img align="right" alt="GIF" height="135px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem)](https://open.spotify.com/user/leonardomajevski)
 
 
 
