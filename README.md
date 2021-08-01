@@ -71,7 +71,8 @@ while (dev.isInFrontOfComputer()) {
 <div align="center">
   <a href="https://open.spotify.com/user/leonardomajevski">
     <img height="150px" src="https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem">
-    <img alt="LISTENING NOW" height="130px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+    <img alt="LISTENING NOW" height="130px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif">
+    <img height="130px" src="https://media.giphy.com/media/fwbJzULeFB0rv0tOQd/giphy.gif">
   </a>
 </div>
 
@@ -235,6 +236,7 @@ MODELO ANTIGO:
   
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api">
+  <img height="200px" src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif">
 </p>
 
 <!--
