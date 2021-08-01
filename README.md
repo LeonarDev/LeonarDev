@@ -54,6 +54,17 @@
 
 ##
 
+<img align="right" alt="GIF" height="135px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+
+
+##
+
+<br>
+<br>
+
 <!--
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
@@ -203,8 +214,6 @@ MODELO ANTIGO:
 </p>
 
 ##
-
-
   
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api">
