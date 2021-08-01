@@ -20,7 +20,7 @@
 - 🖥️ My **[personal page](https://leonardev.github.io./)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 🧠 Long story short: 🥑 **Eat** 💻 **Code** 💪🏽 **Train** ♻️ **Repeat**
-- 🔥 Sad but true: **"Talk is cheap. Show me the code."** - **[Linus Torvalds](https://github.com/torvalds)**
+- 🔥 Best quote: **"Talk is cheap. Show me the code."** - **[Linus Torvalds](https://github.com/torvalds)**
 
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
 
