@@ -19,6 +19,7 @@
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 🎓 Some **[certifications](https://cursos.alura.com.br/user/leonardo-rnascimento/fullCertificate/eea2a0fa87148f478d45fdc0efdab383)**
 - 🖥️ My **[personal page](https://leonardev.github.io./)**
+- 🔥 "Talk is cheap. Show me the code." - [Linus Torvalds](https://github.com/torvalds)
 
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
 
