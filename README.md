@@ -90,7 +90,7 @@
 <p align="center">
   <!-- UBUNTU -->
   <a href="https://ubuntu.com/">
-     <img src="https://img.shields.io/badge/Ubuntu-161B22?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+     <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=E95420"/>
   </a>
   
   <!-- Windows -->
