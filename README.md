@@ -53,6 +53,20 @@
   </a>
 </div>
 
+<br>
+
+  
+```js
+Developer dev = new Developer("LeonarDev");
+
+while (dev.isInFrontOfComputer()) {
+  dev.openChromeBrowser();
+  dev.copyCodeFromStackOverFlow();
+  dev.pasteCodeInIDE();
+  dev.feelLikeAProfessionalDeveloper();
+}
+```
+  
 ##
 
 <img align="right" alt="GIF" height="135px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
