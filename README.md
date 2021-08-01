@@ -104,7 +104,7 @@ while (dev.isInFrontOfComputer()) {
 <!-- <h3 align="left">Skills:</h3> -->
 <p align="center">
   <!-- LINUX -->
-  <a href="https://ubuntu.com/">
+  <a href="https://www.linux.org/">
      <img src="https://img.shields.io/badge/Linux-3f4854?style=for-the-badge&logo=linux&logoColor=000000"/>
   </a>
   
