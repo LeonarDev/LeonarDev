@@ -1,7 +1,3 @@
-<!--
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leonardev&repo=leonardev.github.io&countColorcountColor&countColor=%237B1E7A)
--->
-
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width=250 /> -->
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif" width=300 height=200 /> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
@@ -9,9 +5,6 @@
 <h2> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎r/> <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25"> </h2>
 <h4> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>  About me: </h4>
 
-<!-- 
-- 💡 I'm a **freelancer front-end developer**
--->
 - 🦁 You can call me **[LEO](https://www.instagram.com/maujevski/)**
 - :office: I am a full stack developer at **[Autoglass](https://www.autoglass.com.br/)**
 - :green_heart: And a student in web development **[(MERN Stack)](https://www.mongodb.com/mern-stack)** at **[Trybe](https://www.betrybe.com/formacao)**
@@ -21,10 +14,6 @@
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 🧠 Long story short: 🥑 **Eat** 💻 **Code** 💪🏽 **Train** ♻️ **Repeat**
 - 🔥 Best quote: **"Talk is cheap. Show me the code."** - **[Linus Torvalds](https://github.com/torvalds)**
-
-<!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
-
-<!--  <h3 align="left">Connect with me:</h3> -->
 
 <div align="center">
   <!-- LINKEDIN -->
@@ -55,7 +44,6 @@
 
 <br>
 
-  
 ```js
 Developer dev = new Developer("LeonarDev");
 
@@ -66,7 +54,7 @@ while (dev.isInFrontOfComputer()) {
   dev.feelLikeAProfessionalDeveloper();
 }
 ```
-  
+
 ##
 <div align="center">
   <a href="https://open.spotify.com/user/leonardomajevski">
@@ -76,36 +64,10 @@ while (dev.isInFrontOfComputer()) {
   </a>
 </div>
 
-<!--
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem)](https://open.spotify.com/user/leonardomajevski)
--->
-
 ##
 
 <br>
-
-<!--
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dotnet.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
--->
   
-<!-- <h3 align="left">Skills:</h3> -->
 <p align="center">
   <!-- LINUX -->
   <a href="https://www.linux.org/">
@@ -213,12 +175,6 @@ while (dev.isInFrontOfComputer()) {
   </a>
 </p>
 
-<!-- 
-MODELO ANTIGO:
-![LeonarDev Stats](https://github-readme-stats.vercel.app/api?username=LeonarDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=27) 
-![LeonarDev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonarDev&layout=compact&show_icons=true&theme=dracula&count_private=true&langs_count=10)
--->
-
 <br>
   
 <div align="center">
@@ -227,8 +183,7 @@ MODELO ANTIGO:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=0D1117"/>
 </div>
   
-<!-- SNAKE COMMITS -->
-<p align="center">
+<!-- SNAKE COMMITS --> <p align="center">
   <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
 </p>
 
@@ -238,25 +193,3 @@ MODELO ANTIGO:
   <img src="https://readme-jokes.vercel.app/api">
   <img height="200px" src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif">
 </p>
-
-<!--
-<h1 align="center">A passionate web developer from Brazil 🇧🇷</h1>
-
-**LeonarDev/LeonarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-**Languages and Tools:**  
-s
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💬  Ask me about **anything [here](https://github.com/LeonarDev/LeonarDev/issues)**
---> 
