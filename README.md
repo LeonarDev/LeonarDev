@@ -44,6 +44,7 @@
 
 <br>
 
+<!-- FUNNY CODE -->
 ```js
 Developer dev = new Developer("LeonarDev");
 
@@ -56,6 +57,7 @@ while (dev.isInFrontOfComputer()) {
 ```
 
 ##
+<!-- SPOTIFY -->
 <div align="center">
   <a href="https://open.spotify.com/user/leonardomajevski">
     <img height="150px" src="https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem">
@@ -176,19 +178,22 @@ while (dev.isInFrontOfComputer()) {
 </p>
 
 <br>
-  
+
+<!-- GIT STATUS AND LANGS -->
 <div align="center">
   <a href="https://github.com/LeonarDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=0D1117"/>
 </div>
   
-<!-- SNAKE COMMITS --> <p align="center">
+<!-- SNAKE COMMITS -->
+<p align="center">
   <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
 </p>
 
 ##
-  
+
+<!-- JOKES -->
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api">
   <img height="200px" src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif">
