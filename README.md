@@ -153,7 +153,7 @@ while (dev.isInFrontOfComputer()) {
 
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET_Framework-3f4854?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
+    <img src="https://img.shields.io/badge/.NET-3f4854?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
   </a>
 
   <!-- SQL ORACLE -->
