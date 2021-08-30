@@ -6,7 +6,7 @@
 <h4> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>  About me: </h4>
 
 - 🦁 You can call me **[LEO](https://www.instagram.com/maujevski/)**
-- :office: I am a full stack developer at **[Autoglass](https://www.autoglass.com.br/)**
+- :office: I am a developer at **[Autoglass](https://www.autoglass.com.br/)**
 - :green_heart: And a student in web development **[(MERN Stack)](https://www.mongodb.com/mern-stack)** at **[Trybe](https://www.betrybe.com/formacao)**
 - :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe)** and **[.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
 - 🎓 Some **[certifications](https://cursos.alura.com.br/user/leonardo-rnascimento/fullCertificate/eea2a0fa87148f478d45fdc0efdab383)**
