@@ -115,6 +115,16 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-3f4854?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
+  
+  <!-- TYPESCRIPT -->
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3f4854?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+  </a>
+  
+  <!-- ANGULAR -->
+  <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-3f4854?style=for-the-badge&logo=angular&logoColor=A6120D"/>
+  </a>
 
   <!-- JEST -->
   <a href ="https://jestjs.io/">
