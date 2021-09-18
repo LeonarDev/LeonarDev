@@ -171,9 +171,9 @@ while (dev.isInFrontOfComputer()) {
     <img src="https://img.shields.io/badge/pl/sql-3f4854?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
   </a>
 
-  <!-- NOSQL MONGODB -->
+  <!-- MONGODB -->
   <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/NoSQL-3f4854?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
+    <img src="https://img.shields.io/badge/MongoDB-3f4854?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
   </a>
 
   <!-- SCRUM -->
