@@ -126,14 +126,14 @@ while (dev.isInFrontOfComputer()) {
     <img src="https://img.shields.io/badge/Angular-d5d5d5?style=for-the-badge&logo=angular&logoColor=A6120D"/>
   </a>
 
-  <!-- JEST -->
-  <a href ="https://jestjs.io/">
-    <img src="https://img.shields.io/badge/Jest-d5d5d5?style=for-the-badge&logo=jest&logoColor=933E56"/>
-  </a>
-
   <!-- REACT -->
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  
+  <!-- JEST -->
+  <a href ="https://jestjs.io/">
+    <img src="https://img.shields.io/badge/Jest-d5d5d5?style=for-the-badge&logo=jest&logoColor=933E56"/>
   </a>
 
   <!-- TESTING LIBRARY -->
