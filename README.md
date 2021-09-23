@@ -7,8 +7,8 @@
 
 - 🦁 You can call me **[LEO](https://www.instagram.com/maujevski/)**
 - :office: I am a fullstack developer at **[Autoglass](https://www.autoglass.com.br/)** (Angular, .NET, PL/SQL, MongoDB)
-- :green_heart: And a student in web development (MongoDB, Express, React, Node) at **[Trybe](https://www.betrybe.com/formacao)**
-- :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe)** and **[.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
+- :green_heart: A student in web development (MongoDB, Express, React, Node) at **[Trybe](https://www.betrybe.com/formacao)**
+<!-- - :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe)** and **[.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**-->
 - 🎓 Some **[certifications](https://cursos.alura.com.br/user/leonardo-rnascimento/fullCertificate/eea2a0fa87148f478d45fdc0efdab383)**
 - 🖥️ My **[personal page](https://leonardev.github.io./)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
