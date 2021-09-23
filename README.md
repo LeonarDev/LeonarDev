@@ -131,6 +131,11 @@ while (dev.isInFrontOfComputer()) {
     <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
   
+  <!-- REDUX -->
+  <a href="https://redux.js.org/">
+    <img src="https://img.shields.io/badge/Redux-d5d5d5?style=for-the-badge&logo=redux&logoColor=7856BC"/>
+  </a>
+  
   <!-- JEST -->
   <a href ="https://jestjs.io/">
     <img src="https://img.shields.io/badge/Jest-d5d5d5?style=for-the-badge&logo=jest&logoColor=933E56"/>
@@ -139,11 +144,6 @@ while (dev.isInFrontOfComputer()) {
   <!-- TESTING LIBRARY -->
   <a href="https://testing-library.com/">
     <img src="https://img.shields.io/badge/Testing_Library-d5d5d5?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
-  </a>
-
-  <!-- REDUX -->
-  <a href="https://redux.js.org/">
-    <img src="https://img.shields.io/badge/Redux-d5d5d5?style=for-the-badge&logo=redux&logoColor=7856BC"/>
   </a>
 
   <!-- NODE -->
