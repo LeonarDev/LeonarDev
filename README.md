@@ -13,7 +13,7 @@
 - 🖥️ My **[personal page](https://leonardev.github.io./)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
 - 🧠 Long story short: 🥑 **Eat** 💻 **Code** 💪🏽 **Train** ♻️ **Repeat**
-- 🔥 **"Talk is cheap. Show me the code."** - **[Linus Torvalds](https://github.com/torvalds)**
+- 🔥 **"Talk is cheap. Show me the code"** - **[Linus Torvalds](https://github.com/torvalds)**
 
 <div align="center">
   <!-- LINKEDIN -->
