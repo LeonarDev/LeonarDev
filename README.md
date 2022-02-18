@@ -148,7 +148,7 @@ while (dev.isInFrontOfComputer()) {
 
   <!-- NODE -->
   <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/node.js-d5d5d5?&style=for-the-badge&logo=node.js&logoColor=8CBF3E"/>
+    <img src="https://img.shields.io/badge/node.js-d5d5d5?&style=for-the-badge&logo=node.js"/>
   </a>
 
   <!-- EXPRESS -->
@@ -164,6 +164,11 @@ while (dev.isInFrontOfComputer()) {
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/">
     <img src="https://img.shields.io/badge/.NET-d5d5d5?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
+  </a>
+  
+  <!-- PYTHON -->
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-d5d5d5?&style=for-the-badge&logo=python"/>
   </a>
 
   <!-- SQL ORACLE -->
