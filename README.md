@@ -180,6 +180,16 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-d5d5d5?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
   </a>
+  
+  <!-- JENKINS -->
+  <a href="https://www.jenkins.io/">
+    <img src="https://img.shields.io/badge/Jenkins-d5d5d5?style=for-the-badge&logo=Jenkins&logoColor=000000"/>
+  </a>
+  
+  <!-- SONARQUBE -->
+  <a href="https://www.sonarqube.org/">
+    <img src="https://img.shields.io/badge/SonarQube-d5d5d5?style=for-the-badge&logo=SONARQUBE"/>
+  </a>
 
   <!-- SCRUM -->
   <a href="https://www.scrum.org/">
@@ -190,6 +200,7 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
     <img src="https://img.shields.io/badge/Kanban-d5d5d5?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
   </a>
+
 </p>
 
 <br>
