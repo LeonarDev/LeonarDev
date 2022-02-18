@@ -181,6 +181,11 @@ while (dev.isInFrontOfComputer()) {
     <img src="https://img.shields.io/badge/MongoDB-d5d5d5?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
   </a>
   
+  <!-- HEROKU -->
+  <a href="https://www.heroku.com/home">
+    <img src="https://img.shields.io/badge/Heroku-d5d5d5?style=for-the-badge&logo=HEROKU&logoColor=B893DF"/>
+  </a>
+  
   <!-- JENKINS -->
   <a href="https://www.jenkins.io/">
     <img src="https://img.shields.io/badge/Jenkins-d5d5d5?style=for-the-badge&logo=Jenkins&logoColor=000000"/>
