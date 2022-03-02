@@ -90,6 +90,11 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-d5d5d5?style=for-the-badge&logo=git&logoColor=E95420"/>
   </a>
+  
+  <!-- LIQUIBASE -->
+  <a href="https://liquibase.org/">
+    <img src="https://img.shields.io/badge/liquibase-d5d5d5?style=for-the-badge&logo=AmazonDynamoDB&logoColor=E13600"/>
+  </a>
 
   <!-- MARKDOWN -->
   <a href="https://daringfireball.net/projects/markdown/">
