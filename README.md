@@ -7,8 +7,8 @@
 <h4> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>  About me: </h4>
 
 - 🦁 You can call me **[LEO](https://www.instagram.com/maujevski/)**
-- :office: I am a fullstack developer at **[Autoglass](https://www.autoglass.com.br/)** (Angular, .NET, PL/SQL, MongoDB)
-- :green_heart: A student at **[Trybe](https://github.com/LeonarDev/Trybe)** (MongoDB, Express, React, Node, Python)
+- :office: I am a fullstack developer at **[Autoglass](https://www.autoglass.com.br/)** <!-- (Angular, .NET, PL/SQL, MongoDB)
+- :green_heart: A student at **[Trybe](https://github.com/LeonarDev/Trybe)** (MongoDB, Express, React, Node, Python) -->
 - 🎓 Some **[certifications](https://github.com/LeonarDev/certificados)**
 - 🖥️ My **[personal page](https://leonardev.github.io./)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
