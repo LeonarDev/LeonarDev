@@ -3,8 +3,9 @@
 <!-- - :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe)** and **[.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**-->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
 
-<h2> Hello there <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25"> </h2>
-<h4> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>  About me: </h4>
+<h2>
+  <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Hello there <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25">
+</h2>
 
 - 🦁 You can call me **[LEO](https://www.instagram.com/maujevski/)**
 - :office: I am a fullstack developer at **[Autoglass](https://www.autoglass.com.br/)** <!-- (Angular, .NET, PL/SQL, MongoDB) -->
