@@ -224,11 +224,11 @@ while (dev.isInFrontOfComputer()) {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=0D1117"/>
 </div>
   
-<!-- SNAKE COMMITS -->
+<!-- SNAKE COMMITS 
 <p align="center">
   <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
 </p>
-
+-->
 ##
 
 <!-- JOKES -->
