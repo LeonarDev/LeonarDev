@@ -1,20 +1,23 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width=250 /> -->
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif" width=300 height=200 /> -->
 <!-- - :books: I am currently studying **[Node.js](https://github.com/LeonarDev/Trybe)** and **[.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**-->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
 
+<!--
+<img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
+-->
+
+<!--
 <h2>
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Hello there <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25">
 </h2>
+-->
 
-- 🦁 You can call me **[LEO](https://www.instagram.com/maujevski/)**
-- :office: I am a fullstack developer at **[Autoglass](https://www.autoglass.com.br/)** <!-- (Angular, .NET, PL/SQL, MongoDB) -->
-- 🏛️ I am currently studying Software Architecture and learning Go Lang
-- 🎓 Some **[certifications](https://github.com/LeonarDev/certificados)**
+<!-- - 🦁 You can call me **[LEO](https://www.instagram.com/maujevski/)** -->
+<!--- - 🎓 Some **[certifications](https://github.com/LeonarDev/certificados)**
 - 🖥️ My **[personal page](https://leonardev.github.io./)** _(created in 2020 | obsolete)_
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
-- 🧠 Long story short: 🥑 **Eat** 💻 **Code** 💪🏽 **Train** ♻️ **Repeat**
-- 🔥 **"Talk is cheap. Show me the code"** - **[Linus Torvalds](https://github.com/torvalds)**
+- 🧠 Long story short: 🥑 **Eat** 💻 **Code** 💪🏽 **Train** ♻️ **Repeat** -->
+
 <!-- - :green_heart: A student at **[Trybe](https://github.com/LeonarDev/Trybe)** (MongoDB, Express, React, Node, Python) -->
 
 <div align="center">
@@ -46,6 +49,13 @@
 
 <br>
 
+
+- :office: I currently work as a full stack developer at **[Autoglass](https://www.autoglass.com.br/)** <!-- (Angular, .NET, PL/SQL, MongoDB) -->
+- 🏛️ I am also a student in **[Software Architecture](https://postech.fiap.com.br/curso/software-architecture/)**
+- 🔥 **"Talk is cheap. Show me the code"** - **[Linus Torvalds](https://github.com/torvalds)**
+
+
+
 <!-- FUNNY CODE -->
 ```js
 Developer dev = new Developer("LeonarDev");
@@ -59,16 +69,13 @@ while (dev.isInFrontOfComputer()) {
 ```
 
 ##
-<!-- SPOTIFY -->
-<div align="center">
-  <a href="https://open.spotify.com/user/leonardomajevski">
-    <img height="150px" src="https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem">
-    <img alt="LISTENING NOW" height="130px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif">
-    <img height="130px" src="https://media.giphy.com/media/ZZfJJBF8M1F1UYCU0n/source.gif">
-  </a>
-</div>
 
-##
+<!-- GIT STATUS AND LANGS -->
+<div align="center">
+  <a href="https://github.com/LeonarDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=0D1117"/>
+</div>
 
 <br>
   
@@ -215,14 +222,19 @@ while (dev.isInFrontOfComputer()) {
 
 </p>
 
+##
+<!-- SPOTIFY -->
+<div align="center">
+  <a href="https://open.spotify.com/user/leonardomajevski">
+    <img height="150px" src="https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem">
+    <img alt="LISTENING NOW" height="130px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif">
+    <img height="130px" src="https://media.giphy.com/media/ZZfJJBF8M1F1UYCU0n/source.gif">
+  </a>
+</div>
+
 <br>
 
-<!-- GIT STATUS AND LANGS -->
-<div align="center">
-  <a href="https://github.com/LeonarDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardev&show_icons=true&theme=dark&count_private=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardev&layout=compact&langs_count=10&theme=dark&count_private=true&bg_color=0D1117"/>
-</div>
+
   
 <!-- SNAKE COMMITS 
 <p align="center">
@@ -232,7 +244,9 @@ while (dev.isInFrontOfComputer()) {
 ##
 
 <!-- JOKES -->
+  <!--
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api">
   <img height="200px" src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif">
 </p>
+-->
