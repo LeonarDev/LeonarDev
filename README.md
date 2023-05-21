@@ -92,7 +92,7 @@ while (dev.isInFrontOfComputer()) {
 
   <!-- SHELL -->
   <a href="https://en.wikipedia.org/wiki/Shell_(computing)">
-    <img src="https://img.shields.io/badge/Shell_Script-d5d5d5?style=for-the-badge&logo=windows-terminal&logoColor=343c45"/>
+    <img src="https://img.shields.io/badge/Shell-d5d5d5?style=for-the-badge&logo=windows-terminal&logoColor=343c45"/>
   </a>
 
   <!-- GIT -->
