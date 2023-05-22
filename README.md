@@ -58,7 +58,7 @@
 
 <!-- FUNNY CODE -->
 ```js
-Developer dev = new Developer("LeonarDev");
+Developer dev = new("LeonarDev");
 
 while (dev.isInFrontOfComputer()) {
   dev.openChromeBrowser();
