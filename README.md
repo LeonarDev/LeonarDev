@@ -49,11 +49,11 @@
 
 <br>
 
-
-- :office: I currently work as a full stack developer at **[Autoglass](https://www.autoglass.com.br/)** <!-- (Angular, .NET, PL/SQL, MongoDB) -->
+<!-- 
+- :office: I currently work as a full stack developer at **[Autoglass](https://www.autoglass.com.br/)** <!-- (Angular, .NET, PL/SQL, MongoDB) 
 - 🏛️ I am also a student in **[Software Architecture](https://postech.fiap.com.br/curso/software-architecture/)**
 - 🔥 **"Talk is cheap. Show me the code"** - **[Linus Torvalds](https://github.com/torvalds)**
-
+-->
 
 
 <!-- FUNNY CODE -->
