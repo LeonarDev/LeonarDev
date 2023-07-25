@@ -20,34 +20,8 @@
 
 <!-- - :green_heart: A student at **[Trybe](https://github.com/LeonarDev/Trybe)** (MongoDB, Express, React, Node, Python) -->
 
-<div align="center">
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/leonardomajevski/"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <!-- MICROSOFT LEARN -->
-  <a href = "https://docs.microsoft.com/pt-br/users/leonardev/">
-    <img src="https://img.shields.io/badge/microsoft_Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  </a>
 
-  <!-- INSTAGRAM -->
-  <a href="https://www.instagram.com/maujevski/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 
-  <!-- STEAM -->
-  <a href="https://steamcommunity.com/id/maujevski">
-    <img height="30em" src="https://img.shields.io/badge/Steam-000000?&style=for-the-badge&logo=steam&logoColor=white">
-  </a>
-  
-  <!-- GMAIL -->
-  <a href = "mailto:leonardo.majevski@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
-<br>
 
 <!-- 
 - :office: I currently work as a full stack developer at **[Autoglass](https://www.autoglass.com.br/)** <!-- (Angular, .NET, PL/SQL, MongoDB) 
@@ -233,8 +207,6 @@ while (dev.isInFrontOfComputer()) {
   </a>
 </div>
 
-<br>
-
 
   
 <!-- SNAKE COMMITS 
@@ -243,6 +215,35 @@ while (dev.isInFrontOfComputer()) {
 </p>
 -->
 ##
+
+<br>
+
+<div align="center">
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/leonardomajevski/"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <!-- MICROSOFT LEARN -->
+  <a href = "https://docs.microsoft.com/pt-br/users/leonardev/">
+    <img src="https://img.shields.io/badge/microsoft_Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  </a>
+
+  <!-- INSTAGRAM -->
+  <a href="https://www.instagram.com/maujevski/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- STEAM -->
+  <a href="https://steamcommunity.com/id/maujevski">
+    <img height="30em" src="https://img.shields.io/badge/Steam-000000?&style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  
+  <!-- GMAIL -->
+  <a href = "mailto:leonardo.majevski@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 <!-- JOKES -->
   <!--
