@@ -30,7 +30,7 @@
 -->
 
 
-<!-- FUNNY CODE -->
+<!-- FUNNY CODE 
 ```js
 Developer dev = new("LeonarDev");
 
@@ -43,6 +43,8 @@ while (dev.isInFrontOfComputer()) {
 ```
 
 ##
+
+-->
 
 <!-- GIT STATUS AND LANGS 
 <div align="center">
