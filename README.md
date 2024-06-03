@@ -205,10 +205,16 @@ while (dev.isInFrontOfComputer()) {
     <img alt="LISTENING NOW" height="130px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif">
     <img height="130px" src="https://media.giphy.com/media/ZZfJJBF8M1F1UYCU0n/source.gif">
   </a>
+  
 </div>
 
-
+<div align="center">
+<!--https://spotify-recently-played-readme.vercel.app/ -->
   
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=leonardomajevski&unique={true|1|on|yes})
+
+</div>
+
 <!-- SNAKE COMMITS 
 <p align="center">
   <img src="https://github.com/leonardev/leonardev/blob/output/github-contribution-grid-snake.svg">  
